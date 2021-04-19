@@ -2,7 +2,7 @@
 
 A simple asynchronous wrapper for [MakeUp](http://makeup-api.herokuapp.com/) api
 
-Base: http://makeup-api.herokuapp.com/api/v1/products.json\
+Base: http://makeup-api.herokuapp.com/api/v1/products.json \
 Session: aiohttp.ClientSession
 
 # The parameters according to the API:
