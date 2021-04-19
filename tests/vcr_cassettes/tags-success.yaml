@@ -1,0 +1,192 @@
+interactions:
+- request:
+    body: null
+    headers: {}
+    method: GET
+    uri: http://makeup-api.herokuapp.com/api/v1/products.json?product_tags=organic
+  response:
+    body:
+      string: "[{\"id\":1044,\"brand\":\"boosh\",\"name\":\"Lipstick\",\"price\":\"26.0\",\"price_sign\":\"$\",\"currency\":\"CAD\",\"image_link\":\"https://cdn.shopify.com/s/files/1/1016/3243/products/LIPBALM_LID_grande.jpg?v=1496848378\",\"product_link\":\"https://www.boosh.ca/collections/all\",\"website_link\":\"https://www.boosh.ca/\",\"description\":\"All
+        of our products are free from lead and heavy metals, parabens, phthalates,
+        artificial colourants, and synthetic fragrances.  Boosh lipstick glides on
+        smoothly for clean \\u0026 protective SPF coverage. They are filled with hydrating
+        oils and butters to preserve and enhance your lips natural surface. Organic
+        sweet orange oil gives a light and cheerful scent.\",\"rating\":null,\"category\":\"lipstick\",\"product_type\":\"lipstick\",\"tag_list\":[\"Chemical
+        Free\",\"Organic\"],\"created_at\":\"2018-07-08T17:32:28.088Z\",\"updated_at\":\"2018-09-02T22:52:06.669Z\",\"product_api_url\":\"http://makeup-api.herokuapp.com/api/v1/products/1044.json\",\"api_featured_image\":\"//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/044/original/data?1531071233\",\"product_colors\":[{\"hex_value\":\"#CB4975\",\"colour_name\":\"Babs\"},{\"hex_value\":\"#B6636F\",\"colour_name\":\"Bobbie\"},{\"hex_value\":\"#B37072\",\"colour_name\":\"Rosie\"},{\"hex_value\":\"#C6727C\",\"colour_name\":\"Ellie\"},{\"hex_value\":\"#AF2257\",\"colour_name\":\"Dahlia\"},{\"hex_value\":\"#573F53\",\"colour_name\":\"Kat\"},{\"hex_value\":\"#875672\",\"colour_name\":\"Brie\"},{\"hex_value\":\"#BC88A5\",\"colour_name\":\"Emmy\"},{\"hex_value\":\"#BB8A88\",\"colour_name\":\"Dusty
+        rose\"},{\"hex_value\":\"#8D5C58\",\"colour_name\":\"Kylie\"},{\"hex_value\":\"#C86775\",\"colour_name\":\"Leah\"},{\"hex_value\":\"#F8D7D6\",\"colour_name\":\"Lip
+        Plumping Balm\"},{\"hex_value\":\"#8F6065\",\"colour_name\":\"Luna\"},{\"hex_value\":\"#C79289\",\"colour_name\":\"Nova\"},{\"hex_value\":\"#9D3F47\",\"colour_name\":\"Ruby\"}]},{\"id\":1034,\"brand\":\"rejuva
+        minerals\",\"name\":\"Multi Purpose Powder - Eye Shadow \\u0026 Face\",\"price\":\"0.0\",\"price_sign\":\"$\",\"currency\":\"USD\",\"image_link\":\"https://www.purpicks.com/wp-content/uploads/2018/06/Rejuva-Minerals-Multi-Purpose-Powder-Eye-Shadow-Face-1.jpg\",\"product_link\":\"https://www.purpicks.com/product/rejuva-minerals-multi-purpose-powder-eye-shadow-face/\",\"website_link\":\"https://purpicks.com/\",\"description\":\"Our
+        Multi Purpose Pressed Powders may be used as eye shadow, brow powder, eye
+        liner, or for highlighting. Blended with antioxidants from Certified Organic
+        Fruits, Berries \\u0026amp; Botanicals*. No gluten derived ingredients. VEGAN.
+        All shades will offer a semi-matte finish, with the exception of White Diamond.
+        White Diamond will offer a shimmery finish. Image one shows shade in Iris.
+        This product is EWG VERIFIED\\u0026#x2122; and rated 'CLEAN' in the Think
+        Dirty app! BPA and Phthalate free packaging. Plastic parts of compacts are
+        recyclable.\",\"rating\":null,\"category\":\"\",\"product_type\":\"eyeshadow\",\"tag_list\":[\"purpicks\",\"EWG
+        Verified\",\"Vegan\",\"Organic\"],\"created_at\":\"2018-06-30T19:19:31.827Z\",\"updated_at\":\"2018-09-02T22:52:06.661Z\",\"product_api_url\":\"http://makeup-api.herokuapp.com/api/v1/products/1034.json\",\"api_featured_image\":\"//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/034/original/open-uri20180630-4-1n63e1y?1530390382\",\"product_colors\":[{\"hex_value\":\"#F7F8F3\",\"colour_name\":\"White
+        Diamond\"},{\"hex_value\":\"#E8B49B\",\"colour_name\":\"Tropical Sunset\"},{\"hex_value\":\"#292627\",\"colour_name\":\"Moonless
+        Night\"},{\"hex_value\":\"#A17E69\",\"colour_name\":\"Mocha Latte\"},{\"hex_value\":\"#8C666E\",\"colour_name\":\"Iris\"},{\"hex_value\":\"#615349\",\"colour_name\":\"Brazillian
+        Brown\"},{\"hex_value\":\"#F7DEC4\",\"colour_name\":\"Beach Bum\"}]},{\"id\":1018,\"brand\":\"lotus
+        cosmetics usa\",\"name\":\"Mascara\",\"price\":\"0.0\",\"price_sign\":\"$\",\"currency\":\"USD\",\"image_link\":\"https://www.purpicks.com/wp-content/uploads/2018/03/lotus-cosmetics-usa-mascara-black.png\",\"product_link\":\"https://www.purpicks.com/product/lotus-cosmetics-usa-mascara/\",\"website_link\":\"https://purpicks.com/\",\"description\":\"All
+        natural mascara lengthens, thickens, and defines lashes. Created with coffee
+        extract, rice proteins and sunflower oil to condition lashes. Smudge proof
+        and water resistant for lashes that will all day. Made with natural and organic
+        ingredients. In Black, and Brown.\",\"rating\":null,\"category\":\"\",\"product_type\":\"mascara\",\"tag_list\":[\"purpicks\",\"USDA
+        Organic\",\"Organic\"],\"created_at\":\"2018-06-30T19:19:30.735Z\",\"updated_at\":\"2018-09-02T22:52:06.816Z\",\"product_api_url\":\"http://makeup-api.herokuapp.com/api/v1/products/1018.json\",\"api_featured_image\":\"//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/018/original/open-uri20180630-4-g58t74?1530390371\",\"product_colors\":[{\"hex_value\":\"#000000\",\"colour_name\":\"Black\"}]},{\"id\":1017,\"brand\":\"lotus
+        cosmetics usa\",\"name\":\"Creme to Powder Blush\",\"price\":\"0.0\",\"price_sign\":\"$\",\"currency\":\"USD\",\"image_link\":\"https://www.purpicks.com/wp-content/uploads/2018/03/lotus-cosmetics-usa-creme-to-powder-blush.png\",\"product_link\":\"https://www.purpicks.com/product/lotus-cosmetics-usa-creme-powder-blush/\",\"website_link\":\"https://purpicks.com/\",\"description\":\"A
+        cream to powder blush made with all natural ingredients that applies like
+        a soft cream but finishes like a silky powder. Antioxidant-rich botanicals
+        help moisturize the skin, while natural pigments provide long-lasting buildable
+        color for a healthy, radiant glow. Made with natural and organic ingredients.\",\"rating\":null,\"category\":\"cream\",\"product_type\":\"blush\",\"tag_list\":[\"purpicks\",\"USDA
+        Organic\",\"Organic\"],\"created_at\":\"2018-06-30T19:19:30.678Z\",\"updated_at\":\"2018-09-02T22:52:06.437Z\",\"product_api_url\":\"http://makeup-api.herokuapp.com/api/v1/products/1017.json\",\"api_featured_image\":\"//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/017/original/open-uri20180630-4-1r5paz3?1530390370\",\"product_colors\":[{\"hex_value\":\"#C7766F\",\"colour_name\":\"Plum\"},{\"hex_value\":\"#DF925C\",\"colour_name\":\"Apricot\"},{\"hex_value\":\"#E89B7C\",\"colour_name\":\"Rose\"}]},{\"id\":1016,\"brand\":\"lotus
+        cosmetics usa\",\"name\":\"Eye Shadow Palette Mesmerize\",\"price\":\"0.0\",\"price_sign\":\"$\",\"currency\":\"USD\",\"image_link\":\"http://www.purpicks.com/wp-content/uploads/2018/03/lotus-cosmetics-usa-eye-shadow-palette-mesmerize.png\",\"product_link\":\"https://www.purpicks.com/product/lotus-cosmetics-usa/\",\"website_link\":\"https://purpicks.com/\",\"description\":\"A
+        four-color eyeshadow palette infused with natural minerals and antioxidant
+        rich extracts to help prevent fine lines and wrinkles. Easily blendable shades
+        give you the ability to create effortlessly natural or dramatic looks. Made
+        with natural and organic ingredients.\",\"rating\":null,\"category\":\"palette\",\"product_type\":\"eyeshadow\",\"tag_list\":[\"purpicks\",\"USDA
+        Organic\",\"Organic\"],\"created_at\":\"2018-06-30T19:19:30.618Z\",\"updated_at\":\"2018-09-02T22:52:06.804Z\",\"product_api_url\":\"http://makeup-api.herokuapp.com/api/v1/products/1016.json\",\"api_featured_image\":\"//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/016/original/open-uri20180630-4-1mmjptw?1530390369\",\"product_colors\":[{\"hex_value\":\"#FDF5EB\",\"colour_name\":\"Color
+        1\"},{\"hex_value\":\"#F5CFBC\",\"colour_name\":\"Color 2\"},{\"hex_value\":\"#B57F57\",\"colour_name\":\"Color
+        3\"},{\"hex_value\":\"#A39796\",\"colour_name\":\"Color 4\"}]},{\"id\":1015,\"brand\":\"lotus
+        cosmetics usa\",\"name\":\"Eye Shadow Palette Deluxe\",\"price\":\"0.0\",\"price_sign\":\"$\",\"currency\":\"USD\",\"image_link\":\"http://www.purpicks.com/wp-content/uploads/2018/03/lotus-cosmetics-usa-eye-shadow-palette-deluxe.png\",\"product_link\":\"https://www.purpicks.com/product/lotus-cosmetics-usa/\",\"website_link\":\"https://purpicks.com/\",\"description\":\"A
+        four-color eyeshadow palette infused with natural minerals and antioxidant
+        rich extracts to help prevent fine lines and wrinkles. Easily blendable shades
+        give you the ability to create effortlessly natural or dramatic looks. Made
+        with natural and organic ingredients.\",\"rating\":null,\"category\":\"palette\",\"product_type\":\"eyeshadow\",\"tag_list\":[\"purpicks\",\"USDA
+        Organic\",\"Organic\"],\"created_at\":\"2018-06-30T19:19:30.555Z\",\"updated_at\":\"2018-09-02T22:52:06.788Z\",\"product_api_url\":\"http://makeup-api.herokuapp.com/api/v1/products/1015.json\",\"api_featured_image\":\"//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/015/original/open-uri20180630-4-egfs2g?1530390369\",\"product_colors\":[{\"hex_value\":\"#F4DACA\",\"colour_name\":\"Color
+        1\"},{\"hex_value\":\"#C89281\",\"colour_name\":\"Color 2\"},{\"hex_value\":\"#4F7386\",\"colour_name\":\"Color
+        3\"},{\"hex_value\":\"#9D9484\",\"colour_name\":\"Color 4\"}]},{\"id\":1014,\"brand\":\"lotus
+        cosmetics usa\",\"name\":\"Eye Shadow Palette Smokey\",\"price\":\"0.0\",\"price_sign\":\"$\",\"currency\":\"USD\",\"image_link\":\"http://www.purpicks.com/wp-content/uploads/2018/03/lotus-cosmetics-usa-eye-shadow-palette-smokey.png\",\"product_link\":\"https://www.purpicks.com/product/lotus-cosmetics-usa/\",\"website_link\":\"https://purpicks.com/\",\"description\":\"A
+        four-color eyeshadow palette infused with natural minerals and antioxidant
+        rich extracts to help prevent fine lines and wrinkles. Easily blendable shades
+        give you the ability to create effortlessly natural or dramatic looks. Made
+        with natural and organic ingredients.\",\"rating\":null,\"category\":\"palette\",\"product_type\":\"eyeshadow\",\"tag_list\":[\"purpicks\",\"USDA
+        Organic\",\"Organic\"],\"created_at\":\"2018-06-30T19:19:30.490Z\",\"updated_at\":\"2018-09-02T22:52:06.773Z\",\"product_api_url\":\"http://makeup-api.herokuapp.com/api/v1/products/1014.json\",\"api_featured_image\":\"//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/014/original/open-uri20180630-4-1y604g6?1530390368\",\"product_colors\":[{\"hex_value\":\"#7F946E\",\"colour_name\":\"Color
+        1\"},{\"hex_value\":\"#C8B38A\",\"colour_name\":\"Color 2\"},{\"hex_value\":\"#668D9F\",\"colour_name\":\"Color
+        3\"},{\"hex_value\":\"#36312C\",\"colour_name\":\"Color 4\"}]},{\"id\":1013,\"brand\":\"lotus
+        cosmetics usa\",\"name\":\"Eye Shadow Palette Seduction\",\"price\":\"0.0\",\"price_sign\":\"$\",\"currency\":\"USD\",\"image_link\":\"http://www.purpicks.com/wp-content/uploads/2018/03/lotus-cosmetics-usa-eye-shadow-palette-seduction.png\",\"product_link\":\"https://www.purpicks.com/product/lotus-cosmetics-usa/\",\"website_link\":\"https://purpicks.com/\",\"description\":\"A
+        four-color eyeshadow palette infused with natural minerals and antioxidant
+        rich extracts to help prevent fine lines and wrinkles. Easily blendable shades
+        give you the ability to create effortlessly natural or dramatic looks. Made
+        with natural and organic ingredients.\",\"rating\":null,\"category\":\"palette\",\"product_type\":\"eyeshadow\",\"tag_list\":[\"purpicks\",\"USDA
+        Organic\",\"Organic\"],\"created_at\":\"2018-06-30T19:19:30.422Z\",\"updated_at\":\"2018-09-02T22:52:06.762Z\",\"product_api_url\":\"http://makeup-api.herokuapp.com/api/v1/products/1013.json\",\"api_featured_image\":\"//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/013/original/open-uri20180630-4-1x4t7kg?1530390367\",\"product_colors\":[{\"hex_value\":\"#EBBC9D\",\"colour_name\":\"Color
+        1\"},{\"hex_value\":\"#EFB1B0\",\"colour_name\":\"Color 2\"},{\"hex_value\":\"#5E3A31\",\"colour_name\":\"Color
+        3\"},{\"hex_value\":\"#72504A\",\"colour_name\":\"Color 4\"}]},{\"id\":1012,\"brand\":\"lotus
+        cosmetics usa\",\"name\":\"Eye Shadow Palette Cocoa\",\"price\":\"0.0\",\"price_sign\":\"$\",\"currency\":\"USD\",\"image_link\":\"https://www.purpicks.com/wp-content/uploads/2018/03/lotus-cosmetics-usa-eye-shadow-palette-cocoa.png\",\"product_link\":\"https://www.purpicks.com/product/lotus-cosmetics-usa/\",\"website_link\":\"https://purpicks.com/\",\"description\":\"A
+        four-color eyeshadow palette infused with natural minerals and antioxidant
+        rich extracts to help prevent fine lines and wrinkles. Easily blendable shades
+        give you the ability to create effortlessly natural or dramatic looks. Made
+        with natural and organic ingredients.\",\"rating\":null,\"category\":\"palette\",\"product_type\":\"eyeshadow\",\"tag_list\":[\"purpicks\",\"USDA
+        Organic\",\"Organic\"],\"created_at\":\"2018-06-30T19:19:30.347Z\",\"updated_at\":\"2018-09-02T22:52:06.753Z\",\"product_api_url\":\"http://makeup-api.herokuapp.com/api/v1/products/1012.json\",\"api_featured_image\":\"//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/012/original/open-uri20180630-4-1rlpw5a?1530390367\",\"product_colors\":[{\"hex_value\":\"#E7CBB7\",\"colour_name\":\"Color
+        1\"},{\"hex_value\":\"#BE9794\",\"colour_name\":\"Color 2\"},{\"hex_value\":\"#B5816B\",\"colour_name\":\"Color
+        3\"},{\"hex_value\":\"#9E6D64\",\"colour_name\":\"Color 4\"}]},{\"id\":1005,\"brand\":\"alva\",\"name\":\"Liquid
+        Eye Shadow\",\"price\":\"9.95\",\"price_sign\":\"$\",\"currency\":\"USD\",\"image_link\":\"http://www.purpicks.com/wp-content/uploads/2018/06/Alva-Liquid-Eye-Shadow-1-Pale-Almond.png\",\"product_link\":\"http://www.purpicks.com/product/alva-liquid-eye-shadow-1-pale-almond/\",\"website_link\":\"https://purpicks.com/\",\"description\":\"Our
+        Liquid Edition Eye Shadows have been a real winner since their launch and
+        are a real first of their kind in natural and organic make-up. Whether you're
+        looking for a striking or glamorous look for night time, or something more
+        subtle and natural for wearing during the day, there is a shade for everyone.
+        They dry quickly, and depending on the depth of colour desired, can be blended
+        in on application or left to dry before blending for a more vivid look. Layering
+        is also possible, but however you choose to use these liquid eye shadows they
+        won't gather in crow's feet or fine lines around the eyes. The inclusion of
+        patented beta glucan also means they're perfect for sensitive eyes. Pale Almond
+        is subtle, natural, and perfect for daytime wear, and compliments our Bronzed
+        Hazel liquid eye shadow if a duo tone is desired.\",\"rating\":null,\"category\":\"cream\",\"product_type\":\"eyeshadow\",\"tag_list\":[\"purpicks\",\"Vegan\",\"Organic\"],\"created_at\":\"2018-06-30T19:19:29.708Z\",\"updated_at\":\"2018-09-02T22:52:06.744Z\",\"product_api_url\":\"http://makeup-api.herokuapp.com/api/v1/products/1005.json\",\"api_featured_image\":\"//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/005/original/open-uri20180630-4-1eau5wj?1530390360\",\"product_colors\":[{\"hex_value\":\"#B8A89A\",\"colour_name\":\"Pale
+        Almond\"}]},{\"id\":461,\"brand\":\"dr. hauschka\",\"name\":\"Dr. Hauschka
+        Rouge Powder \",\"price\":\"31.0\",\"price_sign\":null,\"currency\":null,\"image_link\":\"https://d3t32hsnjxo7q6.cloudfront.net/i/1bc9b62be0eb02ff7d07c2619dee18d1_ra,w158,h184_pa,w158,h184.jpg\",\"product_link\":\"https://well.ca/products/dr-hauschka-rouge-powder_34480.html?cat=328\",\"website_link\":\"https://well.ca\",\"description\":\"Dr.
+        Hauschka Rouge Powder is made with real silk, rose\_blossoms and jojoba oil
+        to nurture the skin while contouring\_and adding a healthy hue to the cheeks.\",\"rating\":5.0,\"category\":null,\"product_type\":\"bronzer\",\"tag_list\":[\"Organic\",\"Natural\"],\"created_at\":\"2016-10-01T18:35:20.179Z\",\"updated_at\":\"2017-12-23T21:08:47.241Z\",\"product_api_url\":\"http://makeup-api.herokuapp.com/api/v1/products/461.json\",\"api_featured_image\":\"//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/461/original/data?1514063327\",\"product_colors\":[{\"hex_value\":\"#EB9E84\",\"colour_name\":\"Natural
+        Red 02 \"},{\"hex_value\":\"#F3A5A3\",\"colour_name\":\"Rose 03 \"},{\"hex_value\":\"#E5A78E\",\"colour_name\":\"Soft
+        Terracotta 04 \"}]},{\"id\":191,\"brand\":\"zorah\",\"name\":\"Zorah Liquid
+        Liner\",\"price\":\"24.0\",\"price_sign\":null,\"currency\":null,\"image_link\":\"https://d3t32hsnjxo7q6.cloudfront.net/i/3dc157e4a7e28f90dbe7e9849ccfc87a_ra,w158,h184_pa,w158,h184.jpg\",\"product_link\":\"https://well.ca/products/zorah-liquid-liner_99339.html\",\"website_link\":\"https://well.ca\",\"description\":\"Zorah
+        Liquid Liner gives you 12 hours of long-lasting intense color, is transfer-free
+        (leaves no trace on crease above the eyelid) and has Pure Light Capture\xAE
+        minerals that deliver color and radiance. Silky lines and refreshingly light,
+        Pure Argan eyeliner leaves a weightless feel on the eyelids.What look do you
+        go for: the natural bronzed babe, tropical brights, or classic beauty? Try
+        all three with this get the look with natural makeup piece found on our blog,
+        The Well! Directions: Lightly trace the lash line. Repeat with a second layer
+        to intensify. Make small dots from the outside working inward. Wait 3 seconds
+        before opening eye so as to avoid streaking. Repeat line if necessary.Ingredients:
+        Aqua, Hydrolyzed Corn Starch, Glyceryl Stearate Citrate, Argania Spinosa Kernel
+        Oil*, Cucurbita Pepo (Pumpkin) Seed Oil*, Glycerin,  Silica, Copernicia Cerifera
+        (Carnauba) Wax*, Hectorite, Sodium Phytate, Sodium Citrate, Benzyl Alcohol,
+        Salicylic Acid, Sorbic Acid, Dehydroacetic Acid. [+/-(peut contenir/may contain)
+        Iron Oxides,Mica, Ultramarines, Bismuth Oxychloride.]Tested dermatologically
+        and ophthalmologically.Certified by Ecocert Greenlife: 98% of the total ingredients
+        are from \\nnatural origin, 5% of total ingredients are from organic farming\",\"rating\":3.3,\"category\":\"liquid\",\"product_type\":\"eyeliner\",\"tag_list\":[\"Natural\",\"Organic\",\"Vegan\",\"Gluten
+        Free\",\"Canadian\"],\"created_at\":\"2016-10-01T18:28:07.638Z\",\"updated_at\":\"2017-12-23T20:51:18.506Z\",\"product_api_url\":\"http://makeup-api.herokuapp.com/api/v1/products/191.json\",\"api_featured_image\":\"//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/191/original/data?1514062278\",\"product_colors\":[{\"hex_value\":\"#000000\",\"colour_name\":\"Black
+        \"},{\"hex_value\":\"#74482f\",\"colour_name\":\"Brown \"}]},{\"id\":99,\"brand\":\"dr.
+        hauschka\",\"name\":\"Dr. Hauschka Limited Edition Lipstick Novum\",\"price\":\"27.0\",\"price_sign\":null,\"currency\":null,\"image_link\":\"https://d3t32hsnjxo7q6.cloudfront.net/i/5876ec738df72b74a0aac649415a452f_ra,w158,h184_pa,w158,h184.jpg\",\"product_link\":\"https://well.ca/products/dr-hauschka-limited-edition_117899.html\",\"website_link\":\"https://well.ca\",\"description\":\"This
+        Dr. Hauschka Lipstick leaves the lips feeling soft and silky thanks\\n to
+        its composition of premium argan oil and beeswax, as well as mineral\\n pigments
+        and medicinal plant extracts.\_ The colour of the slim-liner \\ncombines with
+        the natural red of the lips to create completely uniquenuances of colour.Ingredients:
+        Ricinus\\n Communis (Castor) Seed Oil, Simmondsia Chinensis (Jojoba) Seed
+        Oil, \\nRosa Canina Fruit Extract, Lanolin, Beeswax (Cera Alba), Mica, Daucus
+        \\nCarota Sativa (Carrot) Root Extract, Argania Spinosa Kernel Oil, \\nEuphorbia
+        Cerifera (Candelilla) Wax, Copernicia Cerifera (Carnauba) Wax,\\n Rosa Damascena
+        Flower Extract, Anthyllis Vulneraria Extract, Prunus \\nAmygdalus Dulcis (Sweet
+        Almond) Oil, Prunus Armeniaca (Apricot) Kernel \\nOil, Hydrogenated Jojoba
+        Oil, Rosa Damascena Flower Wax, Fragrance \\n(Parfum), Linalool*, Benzyl Benzoate*,
+        Farnesol*, Limonene*, Geraniol*, \\nBenzyl Salicylate*, Eugenol*, Citronellol*,
+        Benzyl Alcohol*, \\nMaltodextrin, Lecithin, Silica, Carmine (CI 75470), Iron
+        Oxides (CI \\n77491, CI 77492, CI 77499), Titanium Dioxide (CI 77891).\_ *component
+        of \\nnatural essential oils\",\"rating\":5.0,\"category\":\"lipstick\",\"product_type\":\"lipstick\",\"tag_list\":[\"Organic\",\"Natural\"],\"created_at\":\"2016-10-01T18:25:36.091Z\",\"updated_at\":\"2017-12-23T21:08:24.940Z\",\"product_api_url\":\"http://makeup-api.herokuapp.com/api/v1/products/99.json\",\"api_featured_image\":\"//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/099/original/data?1514063304\",\"product_colors\":[]},{\"id\":50,\"brand\":\"zorah\",\"name\":\"Zorah
+        Mascara Lengthing\",\"price\":\"27.0\",\"price_sign\":null,\"currency\":null,\"image_link\":\"https://d3t32hsnjxo7q6.cloudfront.net/i/dba2438dde72fe06c8f7a672b9618b0a_ra,w158,h184_pa,w158,h184.jpg\",\"product_link\":\"https://well.ca/products/zorah-mascara-lengthing_99331.html\",\"website_link\":\"https://well.ca\",\"description\":\"This
+        lengthening mascara is made with a unique combination of intense black pure
+        mineral pigments and organic Argan oil to perfectly coat and shape lashes.
+        The twin helix brush and its 3D spheres perfectly sculpt each lash with a
+        full 360\xB0 coverage.Opthalmologically tested. Suitable for use with contact
+        lenses. Fast drying.Organic cosmetic certified by Ecocert Greenlife:97% of
+        the total ingredients are from natural origin18% of total ingredients are
+        from organic farmingDirections: For a lengthening and curvaceous effect, apply
+        the Lengthening Treatment Mascara at the lash base zigzagging upwards. Repeat
+        with a second layer for intensity.Ingredients: Aqua, Alcohol Denat.**, Cetearyl
+        olivate, Sorbitan olivate, Cetyl Palmitate, Sorbitan Palmitate, Copernicia
+        Cerifera (Carnauba) Wax*, Cera Alba*, Glycerin, Magnesium Silicate, Argania
+        Spinosa Kernel Oil*, Cucurbita Pepo (Pumpkin) Seed Oil*, Aroma, Sodium Phytate,
+        Sodium Citrate, Benzyl Alcohol, Salicylic Acid, Sorbic Acid, Dehydroacetic
+        Acid, Sodium Hydroxide, Xanthan Gum. [+/-(peut contenir/may contain) Iron
+        Oxides](peut contenir/may contain) Iron Oxides]\",\"rating\":4.8,\"category\":null,\"product_type\":\"mascara\",\"tag_list\":[\"Natural\",\"Organic\",\"Gluten
+        Free\",\"Canadian\"],\"created_at\":\"2016-10-01T18:11:43.566Z\",\"updated_at\":\"2017-12-23T20:50:54.486Z\",\"product_api_url\":\"http://makeup-api.herokuapp.com/api/v1/products/50.json\",\"api_featured_image\":\"//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/050/original/data?1514062254\",\"product_colors\":[]}]"
+    headers:
+      Access-Control-Allow-Headers:
+      - Origin, Content-Type, Accept, Authorization, Token
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Max-Age:
+      - '1728000'
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '20849'
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Thu, 15 Apr 2021 22:36:38 GMT
+      Etag:
+      - W/"cbb278e60316fb107bdec3795fa287d1"
+      Server:
+      - WEBrick/1.3.1 (Ruby/2.3.1/2016-04-26)
+      Via:
+      - 1.1 vegur
+      X-Content-Type-Options:
+      - nosniff
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Request-Id:
+      - 2e135aa7-babd-4064-a2ff-d0048985a1f1
+      X-Runtime:
+      - '0.162843'
+      X-Xss-Protection:
+      - 1; mode=block
+    status:
+      code: 200
+      message: 'OK '
+    url: http://makeup-api.herokuapp.com/api/v1/products.json?product_tags=organic
+version: 1
