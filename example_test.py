@@ -2,8 +2,6 @@ from pprint import pprint
 
 import asyncio
 
-import sys
-sys.path.append('/Users/marichuanne/Desktop/m_wrapper/')
 from makeuppy.aio_makeup import MakeUp
 
 
